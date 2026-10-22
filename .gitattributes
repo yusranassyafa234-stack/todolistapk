@@ -1,0 +1,2 @@
+# Abaikan file script shell dari kalkulasi bahasa GitHub (Linguist)
+*.sh linguist-detectable=false
